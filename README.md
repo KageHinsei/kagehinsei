@@ -1,10 +1,6 @@
 # Hello, i'm Kage! 👋
 My focus has always been technology, it's an indestructible relationship! :D
-<br><br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
-
-<br><br>
+<br><br><br>
 
 ### Contacts
 <div>
