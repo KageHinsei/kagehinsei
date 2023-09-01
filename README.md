@@ -10,8 +10,8 @@ My focus has always been technology, it's an indestructible relationship! :D
 
 
 <div>  
-  <img width="55%" height="220px" src="https://github-readme-stats.vercel.app/api?username=kagejinsei&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Kage Jinsei github stats"/>
-  <img width="35%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagejinsei&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
+  <img width="45%" height="220px" src="https://github-readme-stats.vercel.app/api?username=kagejinsei&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Kage Jinsei github stats"/>
+  <img width="45%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagejinsei&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
 </div>
 
 
