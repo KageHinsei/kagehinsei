@@ -15,7 +15,7 @@ My focus has always been technology, it's an indestructible relationship! :D
 
 ## Technologies
 <div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img href="https://github.com/KageJinsei?tab=repositories&q=&type=&language=go&sort=" align="center" alt="html5" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
